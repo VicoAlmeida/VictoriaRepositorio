@@ -1,12 +1,8 @@
-.footer{
+.cabezal{
     border:solid red 5px;
     clear: both;
-    margin-top:  60%;
     height: 5%;
     width: 100%;
-}
-label{
-    background-color: aqua;
 }
 
   
